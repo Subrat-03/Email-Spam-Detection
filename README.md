@@ -21,9 +21,3 @@ Contains labeled emails as Spam (1) or Not Spam (0).
 # MODEL PERFORMANCE:
 Achieves high accuracy in spam detection.
 Suitable for real-world applications like email filtering systems.
-License
-
-This project is licensed under the MIT License.
-
-💡 Contributions are welcome! If you have suggestions or improvements, feel free to contribute. 😊
-
